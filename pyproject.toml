@@ -1,8 +1,23 @@
 [tool.poetry]
 name = "starlette-static-resources"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["david <davidventura27@gmail.com>"]
+
+classifiers = [
+    "Environment :: Web Environment",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Topic :: Internet :: WWW/HTTP",
+    "License :: OSI Approved :: MIT",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+]
+readme = "README.md"
+license = "MIT"
 
 [tool.black]
 line-length = 88
