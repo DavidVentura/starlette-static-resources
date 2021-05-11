@@ -4,7 +4,7 @@ Like [StaticFile](https://www.starlette.io/staticfiles/) but for [package resour
 
 Example:
 
-```
+```python
 import uvicorn
 
 from starlette.applications import Starlette
