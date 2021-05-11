@@ -3,6 +3,7 @@ name = "starlette-static-resources"
 version = "0.1.1"
 description = ""
 authors = ["david <davidventura27@gmail.com>"]
+repository = "https://github.com/davidventura/starlette-static-resources"
 
 classifiers = [
     "Environment :: Web Environment",
