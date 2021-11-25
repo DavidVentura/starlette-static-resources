@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "starlette-static-resources"
-version = "0.1.1"
+version = "0.1.2"
 description = ""
 authors = ["david <davidventura27@gmail.com>"]
 repository = "https://github.com/davidventura/starlette-static-resources"
@@ -26,7 +26,7 @@ py36 = true
 
 [tool.poetry.dependencies]
 python = ">=3.6"
-starlette = "^0.14.2"
+starlette = ">=0.14.2"
 importlib-resources = { version = "^5.1.2", python = "<3.9" }
 aiofiles = "^0.6.0"
 
